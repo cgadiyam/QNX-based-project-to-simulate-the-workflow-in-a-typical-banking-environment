@@ -1,0 +1,1 @@
+# QNX-based-project-to-simulate-the-workflow-in-a-typical-banking-environment
